@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @IrirdIum
+- 👀 I’m interested in Java
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on ...
